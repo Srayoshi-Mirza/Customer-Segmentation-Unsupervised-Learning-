@@ -44,7 +44,8 @@ Columns:
 - Yearly Amount Spent
 
 Title: Ecommerce Customer Data
-    Author Mason Greenwood, Mason Greenwood
+
+Author: Mason Greenwood, Mason Greenwood
 
 
 ## Objective of the Project:
