@@ -12,7 +12,7 @@ Customer segmentation is the process of dividing a customer base into groups of 
 
 Unsupervised learning is a type of machine learning where the algorithm is presented with a dataset without labeled responses or targets. Unlike supervised learning, where the model is trained on a dataset with explicit labels, unsupervised learning involves extracting patterns, structures, or relationships inherent in the data without predefined categories. Common techniques in unsupervised learning include clustering, where similar data points are grouped, and dimensionality reduction, which aims to reduce the complexity of the dataset while preserving essential features. Unsupervised learning is beneficial for discovering hidden patterns and gaining insights into the intrinsic properties of the data.
 
-![Unsupervised Learning](https://www.geeksforgeeks.org/clustering-in-machine-learning/)
+![Unsupervised Learning](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Iihw0V-r0raMMtcDTFGGQA.png)
 
 ## Clustering
 Clustering is a process of grouping similar objects; i.e., to partition unlabeled examples into disjoint subsets of clusters, such that:
