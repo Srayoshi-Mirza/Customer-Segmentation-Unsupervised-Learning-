@@ -11,7 +11,7 @@ Customer segmentation is the process of dividing a customer base into groups of 
 ## Unsupervised Learning
 
 Unsupervised learning is a type of machine learning where the algorithm is presented with a dataset without labeled responses or targets. Unlike supervised learning, where the model is trained on a dataset with explicit labels, unsupervised learning involves extracting patterns, structures, or relationships inherent in the data without predefined categories. Common techniques in unsupervised learning include clustering, where similar data points are grouped, and dimensionality reduction, which aims to reduce the complexity of the dataset while preserving essential features. Unsupervised learning is beneficial for discovering hidden patterns and gaining insights into the intrinsic properties of the data.
-![Unsupervised Learning](https://nixustechnologies.com/wp-content/uploads/2022/03/unsupervised-machine-learning-1.webp)
+![Unsupervised Learning](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Iihw0V-r0raMMtcDTFGGQA.png)
 
 ## Clustering
 Clustering is a process of grouping similar objects; i.e., to partition unlabeled examples into disjoint subsets of clusters, such that:
@@ -73,10 +73,10 @@ to identify and group similar customers.
 
 - Employed visualizations such as scatter plots to represent clusters.
 #### K-Means
-![K-Means](https://github.com/Srayoshi-Mirza/Customer-Segmentation-Unsupervised-Learning-/blob/main/Screenshots/EDA%20Pairplot.png)
+![K-Means](https://github.com/Srayoshi-Mirza/Customer-Segmentation-Unsupervised-Learning-/blob/main/Screenshots/K-Mean%20Cluster.png)
 
 #### Top-Down
-![Top-Down](https://github.com/Srayoshi-Mirza/Customer-Segmentation-Unsupervised-Learning-/blob/main/Screenshots/K-Mean%20Cluster.png)
+![Top-Down](https://github.com/Srayoshi-Mirza/Customer-Segmentation-Unsupervised-Learning-/blob/main/Screenshots/Top%20Down%20Cluster.png)
 
 #### Bottom-Up
 ![Bottom Up](https://github.com/Srayoshi-Mirza/Customer-Segmentation-Unsupervised-Learning-/blob/main/Screenshots/bottom%20up%20cluster.png)
@@ -112,8 +112,8 @@ Evaluated clustering quality using metrics like silhouette score, examining clus
 
 ![Feature](https://github.com/Srayoshi-Mirza/Customer-Segmentation-Unsupervised-Learning-/blob/main/Screenshots/Feature%20Importance.png)
 ## Comparison:
-Compared the performance of K-Means, Top-Down Hierarchical, and Bottom-Up Hierarchical clustering.
-Discussed the strengths and weaknesses of each method.
+- Compared the performance of K-Means, Top-Down Hierarchical, and Bottom-Up Hierarchical clustering.
+- Discussed the strengths and weaknesses of each method.
 
 ## Check the size of each cluster to see if there is a significant imbalance
 ![all cluster](https://github.com/Srayoshi-Mirza/Customer-Segmentation-Unsupervised-Learning-/blob/main/Screenshots/All%20clusters.png)
@@ -135,7 +135,7 @@ Suggested future directions, including exploring additional features or refining
 
  - [Customer Segmentation](https://www.youtube.com/watch?app=desktop&v=zPJtDohab-g)
 
- - [Unsupervised Learning](https://nixustechnologies.com/unsupervised-machine-learning/)
+ - [Unsupervised Learning]([https://nixustechnologies.com/unsupervised-machine-learning/](https://medium.com/analytics-vidhya/beginners-guide-to-unsupervised-learning-76a575c4e942))
 
 
 
