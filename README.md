@@ -25,7 +25,7 @@ Two kinds of inputs can be used for grouping:
 - in similarity-based clustering, the input to the algorithm is an n × n dissimilarity matrix or distance matrix;
 - in feature-based clustering, the input to the algorithm is an n × D feature matrix or design matrix, where n is the number of examples in the dataset and D is the dimensionality of each sample.
 Similarity-based clustering allows easy inclusion of domain-specific similarity, while feature-based clustering has the advantage that it applies to potentially noisy data.
-![Clustering]([https://nixustechnologies.com/wp-content/uploads/2022/03/unsupervised-machine-learning-1.webp](https://devopedia.org/images/article/242/4320.1575221317.png)https://devopedia.org/images/article/242/4320.1575221317.png)
+![Clustering](https://nixustechnologies.com/wp-content/uploads/2022/03/unsupervised-machine-learning-1.webp)
 
 ## About The Dataset
 
