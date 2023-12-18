@@ -2,7 +2,7 @@
 
 This is a Basic Project that will help one understand Unsupervised Learning in a Brief way. Project-wise learning is one of the most effective ways to learn anything.
 ![Logo](https://github.com/Srayoshi-Mirza/Srayoshi-mirza.github.io/blob/main/uploads/srayoshi-logo-01.png)
-- [@Srayoshi-Mirza](https://github.com/Srayoshi-Mirza)
+Author: [@Srayoshi-Mirza](https://github.com/Srayoshi-Mirza)
 ## Customer Segmentation
 
 Customer segmentation is the process of dividing a customer base into groups of individuals who are similar in specific ways relevant to marketing, such as age, gender, interests, spending behavior, and more. The goal of customer segmentation is to understand better and meet the unique needs of different customer groups, allowing businesses to tailor their marketing strategies, product offerings, and customer experiences for maximum effectiveness.
