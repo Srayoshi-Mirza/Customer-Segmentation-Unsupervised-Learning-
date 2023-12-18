@@ -12,7 +12,7 @@ Customer segmentation is the process of dividing a customer base into groups of 
 
 Unsupervised learning is a type of machine learning where the algorithm is presented with a dataset without labeled responses or targets. Unlike supervised learning, where the model is trained on a dataset with explicit labels, unsupervised learning involves extracting patterns, structures, or relationships inherent in the data without predefined categories. Common techniques in unsupervised learning include clustering, where similar data points are grouped, and dimensionality reduction, which aims to reduce the complexity of the dataset while preserving essential features. Unsupervised learning is beneficial for discovering hidden patterns and gaining insights into the intrinsic properties of the data.
 
-![Unsupervised Learning](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Iihw0V-r0raMMtcDTFGGQA.png)
+![Unsupervised Learning](https://www.geeksforgeeks.org/clustering-in-machine-learning/)
 
 ## Clustering
 Clustering is a process of grouping similar objects; i.e., to partition unlabeled examples into disjoint subsets of clusters, such that:
@@ -25,7 +25,7 @@ Two kinds of inputs can be used for grouping:
 - in similarity-based clustering, the input to the algorithm is an n × n dissimilarity matrix or distance matrix;
 - in feature-based clustering, the input to the algorithm is an n × D feature matrix or design matrix, where n is the number of examples in the dataset and D is the dimensionality of each sample.
 Similarity-based clustering allows easy inclusion of domain-specific similarity, while feature-based clustering has the advantage that it applies to potentially noisy data.
-![Clustering](https://nixustechnologies.com/wp-content/uploads/2022/03/unsupervised-machine-learning-1.webp)
+![Clustering](https://media.geeksforgeeks.org/wp-content/uploads/merge3cluster.jpg)
 
 ## About The Dataset
 
@@ -136,7 +136,8 @@ Suggested future directions, including exploring additional features or refining
 
  - [Customer Segmentation](https://www.youtube.com/watch?app=desktop&v=zPJtDohab-g)
 
- - [Unsupervised Learning]([https://nixustechnologies.com/unsupervised-machine-learning/](https://medium.com/analytics-vidhya/beginners-guide-to-unsupervised-learning-76a575c4e942))
+ - [Unsupervised Learning](https://medium.com/analytics-vidhya/beginners-guide-to-unsupervised-learning-76a575c4e942)
+ - [Clustering](https://www.geeksforgeeks.org/clustering-in-machine-learning/)
 
 
 
